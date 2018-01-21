@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudyTimer/InputViewController.swift"
+            timestampString = "536731184.329985"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "InputViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.InputViewController.seconds.getter : Swift.Int"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/InputViewController.swift"
+                  timestampString = "536728597.590391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.InputViewController.seconds.setter : Swift.Int"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/InputViewController.swift"
+                  timestampString = "536728597.593471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.InputViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; StudyTimer.InputViewController"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/InputViewController.swift"
+                  timestampString = "536728597.621211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.InputViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;StudyTimer.InputViewController&gt;"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/InputViewController.swift"
+                  timestampString = "536728597.62741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudyTimer/InputViewController.swift"
+            timestampString = "536731184.33007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudyTimer/ViewController.swift"
+            timestampString = "536732343.106904"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.ViewController.totalSeconds.getter : Swift.Int"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/ViewController.swift"
+                  timestampString = "536543376.887709"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.ViewController.totalSeconds.setter : Swift.Int"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/ViewController.swift"
+                  timestampString = "536543376.890042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "98">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; StudyTimer.ViewController"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/ViewController.swift"
+                  timestampString = "536543376.892851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;StudyTimer.ViewController&gt;"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/ViewController.swift"
+                  timestampString = "536543376.897695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudyTimer/ViewController.swift"
+            timestampString = "536732343.107141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.ViewController.seconds.getter : Swift.Int"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/ViewController.swift"
+                  timestampString = "536543376.908342"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.ViewController.seconds.setter : Swift.Int"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/ViewController.swift"
+                  timestampString = "536543376.911234"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; StudyTimer.ViewController"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/ViewController.swift"
+                  timestampString = "536543376.913703"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StudyTimer.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;StudyTimer.ViewController&gt;"
+                  moduleName = "StudyTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/madisonfileman/Desktop/Fall2017/iOS/StudyTimer/StudyTimer/ViewController.swift"
+                  timestampString = "536543376.915311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "245">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StudyTimer/InputViewController.swift"
+            timestampString = "536731184.330168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
